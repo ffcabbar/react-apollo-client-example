@@ -44,7 +44,7 @@ function App() {
   const { loading, error, data } = useQuery(rickandmorty);
 
   if (loading) return <div style={{textAlign: "center"}}> <Spinner color="warning" /> Loading...</div>;
-  if (error) return <div style={{textAlign: "center"}} > <Spinner color="danger" /> Oppss !!</div>;
+  if (error) return <div style={{textAlign: "center"}} > <Spinner color="danger" /> Oppss !! TURN OFF AdBlock</div>;
 
   const newData = data.characters.results;
   console.log(newData);

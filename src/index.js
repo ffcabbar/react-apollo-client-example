@@ -5,6 +5,7 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { ApolloProvider } from "@apollo/react-hooks";
 import ApolloClient from "apollo-boost";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 const client = new ApolloClient({
   uri: "https://rickandmortyapi.com/graphql/"

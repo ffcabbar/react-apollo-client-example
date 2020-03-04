@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/react-apollo-client-example/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-apollo-client-example/static/js/main.c9f4985d.chunk.js",
-    "main.js.map": "/react-apollo-client-example/static/js/main.c9f4985d.chunk.js.map",
+    "main.js": "/react-apollo-client-example/static/js/main.a1d144d1.chunk.js",
+    "main.js.map": "/react-apollo-client-example/static/js/main.a1d144d1.chunk.js.map",
     "runtime-main.js": "/react-apollo-client-example/static/js/runtime-main.72ac4baf.js",
     "runtime-main.js.map": "/react-apollo-client-example/static/js/runtime-main.72ac4baf.js.map",
-    "static/css/2.67123b20.chunk.css": "/react-apollo-client-example/static/css/2.67123b20.chunk.css",
-    "static/js/2.3756bcfb.chunk.js": "/react-apollo-client-example/static/js/2.3756bcfb.chunk.js",
-    "static/js/2.3756bcfb.chunk.js.map": "/react-apollo-client-example/static/js/2.3756bcfb.chunk.js.map",
+    "static/js/2.70390b0b.chunk.js": "/react-apollo-client-example/static/js/2.70390b0b.chunk.js",
+    "static/js/2.70390b0b.chunk.js.map": "/react-apollo-client-example/static/js/2.70390b0b.chunk.js.map",
     "index.html": "/react-apollo-client-example/index.html",
-    "precache-manifest.a514290cc218c4f02650df24394eb959.js": "/react-apollo-client-example/precache-manifest.a514290cc218c4f02650df24394eb959.js",
+    "precache-manifest.f967ca12e1670d3e41f9f7394a471b97.js": "/react-apollo-client-example/precache-manifest.f967ca12e1670d3e41f9f7394a471b97.js",
     "service-worker.js": "/react-apollo-client-example/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/react-apollo-client-example/static/css/2.67123b20.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-apollo-client-example/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3756bcfb.chunk.js.LICENSE.txt": "/react-apollo-client-example/static/js/2.3756bcfb.chunk.js.LICENSE.txt",
+    "static/js/2.70390b0b.chunk.js.LICENSE.txt": "/react-apollo-client-example/static/js/2.70390b0b.chunk.js.LICENSE.txt",
     "static/media/rickandmorty.png": "/react-apollo-client-example/static/media/rickandmorty.edfe1d16.png"
   },
   "entrypoints": [
     "static/js/runtime-main.72ac4baf.js",
-    "static/css/2.67123b20.chunk.css",
-    "static/js/2.3756bcfb.chunk.js",
+    "static/js/2.70390b0b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c9f4985d.chunk.js"
+    "static/js/main.a1d144d1.chunk.js"
   ]
 }

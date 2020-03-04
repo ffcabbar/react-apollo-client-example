@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e67c1c43231ebcd98ef0e230c1ff8ba9",
+    "revision": "41dc6776c279849b193303e00e2d1776",
     "url": "/react-apollo-client-example/index.html"
   },
   {
-    "revision": "412d35374f6ae86d8b30",
-    "url": "/react-apollo-client-example/static/css/2.67123b20.chunk.css"
-  },
-  {
-    "revision": "a828fb218feec3de0f54",
+    "revision": "0ee737e8b3500786faf7",
     "url": "/react-apollo-client-example/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "412d35374f6ae86d8b30",
-    "url": "/react-apollo-client-example/static/js/2.3756bcfb.chunk.js"
+    "revision": "016bcc63dd7a9fd2d2a9",
+    "url": "/react-apollo-client-example/static/js/2.70390b0b.chunk.js"
   },
   {
     "revision": "5298b0565bb315b9314a8baf33940c9d",
-    "url": "/react-apollo-client-example/static/js/2.3756bcfb.chunk.js.LICENSE.txt"
+    "url": "/react-apollo-client-example/static/js/2.70390b0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a828fb218feec3de0f54",
-    "url": "/react-apollo-client-example/static/js/main.c9f4985d.chunk.js"
+    "revision": "0ee737e8b3500786faf7",
+    "url": "/react-apollo-client-example/static/js/main.a1d144d1.chunk.js"
   },
   {
     "revision": "5afda357b0fb3412084b",
